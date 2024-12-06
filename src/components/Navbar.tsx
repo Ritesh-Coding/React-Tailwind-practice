@@ -9,6 +9,7 @@ const Navbar = () => {
             <img className="h-10 w-10 mr-2" src={logo} alt="logo"></img>
             <span className='text-xl tracking-tight'>Virtual R</span>
           </div>
+          {/* sfr */}
 
 
 
